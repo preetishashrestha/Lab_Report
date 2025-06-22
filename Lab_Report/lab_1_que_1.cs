@@ -8,12 +8,12 @@ namespace Lab_Report
 {
     class Program
     {
-        static void Main()
-        {
-            Console.Write("Enter your name: ");
-            string Name = Console.ReadLine();
+        //static void Main()
+        //{
+        //    Console.Write("Enter your name: ");
+        //    string Name = Console.ReadLine();
 
-            Console.WriteLine($"Welcome {Name}, to dotnet technology");
-        }
+        //    Console.WriteLine($"Welcome {Name}, to dotnet technology");
+        //}
     }
 }

@@ -43,7 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="lab1_que10.cs" />
+    <Compile Include="lab1_que12.cs" />
+    <Compile Include="lab1_que13.cs" />
+    <Compile Include="lab1_que_11.cs" />
+    <Compile Include="lab1_que_5.cs" />
+    <Compile Include="lab1_que_6.cs" />
+    <Compile Include="lab1_que_7.cs" />
+    <Compile Include="lab1_que_8.cs" />
+    <Compile Include="lab1_que_9.cs" />
+    <Compile Include="lab_1_que_3.cs" />
+    <Compile Include="lab1_que_2.cs" />
     <Compile Include="lab_1_que_1.cs" />
+    <Compile Include="lab_1_que_4.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
