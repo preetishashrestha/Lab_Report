@@ -8,11 +8,11 @@ namespace Lab_Report
 {
     class preetisha
     {
-        static void Main(string[] args)
-        {
-            string[] words = { "Hello", "world", "this", "is", ".NET" };
-            string result = string.Join(" ", words);
-            Console.WriteLine("Combined string: " + result);
-        }
+        //static void Main(string[] args)
+        //{
+        //    string[] words = { "Hello", "world", "this", "is", ".NET" };
+        //    string result = string.Join(" ", words);
+        //    Console.WriteLine("Combined string: " + result);
+        //}
     }
 }

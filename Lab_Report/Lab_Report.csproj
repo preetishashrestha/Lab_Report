@@ -52,6 +52,16 @@
     <Compile Include="lab1_que_7.cs" />
     <Compile Include="lab1_que_8.cs" />
     <Compile Include="lab1_que_9.cs" />
+    <Compile Include="lab2_que1.cs" />
+    <Compile Include="lab2_que10.cs" />
+    <Compile Include="lab2_que2.cs" />
+    <Compile Include="lab2_que5.cs" />
+    <Compile Include="lab2_que7.cs" />
+    <Compile Include="lab2_que8.cs" />
+    <Compile Include="lab2_que_3.cs" />
+    <Compile Include="lab2_que_4.cs" />
+    <Compile Include="lab2_que_6.cs" />
+    <Compile Include="lab2_que_9.cs" />
     <Compile Include="lab_1_que_3.cs" />
     <Compile Include="lab1_que_2.cs" />
     <Compile Include="lab_1_que_1.cs" />
