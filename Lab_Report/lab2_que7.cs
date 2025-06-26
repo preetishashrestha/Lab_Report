@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace Lab_Report
 {
-    using System;
 
     //class Point
     //{

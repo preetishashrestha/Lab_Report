@@ -33,6 +33,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MySql.Data, Version=9.3.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector NET 9.3\MySql.Data.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -62,6 +66,13 @@
     <Compile Include="lab2_que_4.cs" />
     <Compile Include="lab2_que_6.cs" />
     <Compile Include="lab2_que_9.cs" />
+    <Compile Include="lab3_que1.cs" />
+    <Compile Include="lab3_que2.cs" />
+    <Compile Include="lab3_que3.cs" />
+    <Compile Include="lab3_que4.cs" />
+    <Compile Include="lab3_que5.cs" />
+    <Compile Include="lab3_que6.cs" />
+    <Compile Include="lab3_que9.cs" />
     <Compile Include="lab_1_que_3.cs" />
     <Compile Include="lab1_que_2.cs" />
     <Compile Include="lab_1_que_1.cs" />
